@@ -1,0 +1,23 @@
+[
+    {
+        "id": "cc0b0969-951c-4a8b-a6a9-eef992900c32",
+        "title": "Phone",
+        "price": "300$",
+        "model": "Redmi not 13 pro",
+        "guarantee": "2 year"
+    },
+    {
+        "id": "3a8a3a9c-45b3-441e-b49f-484be97b7eaf",
+        "title": "Notebook",
+        "price": "750$",
+        "model": "HP",
+        "guarantee": "3.5 year"
+    },
+    {
+        "id": "c0adc0d0-fc4d-43c1-9df5-e4470ddd965d",
+        "title": "PlayStation",
+        "price": "600$",
+        "model": "PS5 Pro",
+        "guarantee": "4 year"
+    }
+]
